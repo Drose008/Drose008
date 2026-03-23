@@ -77,5 +77,3 @@ Always open to learning and connecting.
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Drose008&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="90%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drose008&theme=nightowl&hide_border=true&layout=compact" width="80%"/>
