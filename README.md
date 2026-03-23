@@ -20,8 +20,7 @@ Always open to learning and connecting.
 
 <td width="40%" align="center">
 
-<img src="https://static.wikia.nocookie.net/deathbattlefanon/images/5/5c/Lucycyberpunk.jpg" width="260"/>
-</td>
+<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/lucy.webp" width="260"/></td>
 </tr>
 </table>
 
