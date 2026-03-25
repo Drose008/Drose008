@@ -72,9 +72,3 @@ Always open to learning and connecting.
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Drose008&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="90%"/>
