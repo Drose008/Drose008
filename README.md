@@ -7,7 +7,7 @@
 I'm a Computer Science undergraduate.<br><br>
 My main interests are Python, AI/ML, and software development, and I'm currently improving my DSA and core CS fundamentals.<br><br>
 I enjoy building projects that help me learn new concepts and strengthen my problem-solving skills.<br><br>
-Most of my repositories are projects, experiments, and coursework that reflect what I'm learning along the way.<br><br>
+Most of my repositories are gonna be projects, experiments, and coursework that reflect what I'm learning along the way.<br><br>
 I also enjoy writing stories, reading, and finding inspiration in games and fantasy worlds.
 
 </td>
