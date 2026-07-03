@@ -12,8 +12,8 @@ I also enjoy writing stories, reading, and finding inspiration in games and fant
 
 </td>
 
-<td width="40%" align="center">
-
+<td width="40%" valign="top" align="center">
+  
 <img src="https://github.com/Drose008/Drose008/blob/main/lucy.jpg" width="260"/></td>
 </tr>
 </table>
