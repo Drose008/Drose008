@@ -4,9 +4,19 @@
 <tr>
 <td width="60%" valign="top">
 
-My main interests are Python, AI/ML, and software development, and I'm currently working on improving my DSA and core CS fundamentals.
-I enjoy projects that help me learn new concepts and improve my problem-solving skills.
-Most of my repositories will be projects, experiments, and coursework that reflect what I'm learning along the way.
+I'm a Computer Science undergraduate.
+
+<br><br>
+
+My main interests are Python, AI/ML, and software development, and I'm currently improving my DSA and core CS fundamentals.
+
+<br><br>
+
+I enjoy building projects that help me learn new concepts and strengthen my problem-solving skills.
+
+<br><br>
+
+Most of my repositories are projects, experiments, and coursework that reflect what I'm learning along the way.
 
 </td>
 
@@ -49,7 +59,7 @@ Most of my repositories will be projects, experiments, and coursework that refle
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### ⚙️ Core / Backend (to do)
+### ⚙️ Core / Backend
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🤖 AI / Data
