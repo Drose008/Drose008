@@ -4,17 +4,9 @@
 <tr>
 <td width="60%" valign="top">
 
-Computer Science undergraduate with a focus on Python, DSA, and problem solving.
-
-Currently I'm building projects, exploring AI, ML, and real-world applications.
-
-I like to learn steadily, improve over time.  
-Still figuring out discipline, but making progress.  
-I work quietly, but with intent.
-
-Currently strengthening DSA and other core subjects.
-
-Always open to learning and connecting.
+My main interests are Python, AI/ML, and software development, and I'm currently working on improving my DSA and core CS fundamentals.
+I enjoy projects that help me learn new concepts and improve my problem-solving skills.
+Most of my repositories will be projects, experiments, and coursework that reflect what I'm learning along the way.
 
 </td>
 
@@ -53,11 +45,11 @@ Always open to learning and connecting.
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
-### 🎨 Frontend
+### 🎨 Frontend (to do)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### ⚙️ Core / Backend
+### ⚙️ Core / Backend (to do)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🤖 AI / Data
